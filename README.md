@@ -11,7 +11,7 @@ A simple, intuitive calculator web app created using HTML, CSS, and JavaScript. 
 
 ## Usage
 1. Clone or download the repository.
-2. Open the `index.html` file in a browser.
+2. Open the `page.html` file in a browser.
 3. Perform calculations by clicking the buttons on the calculator.
 
 ## Dependencies
